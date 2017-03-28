@@ -4,6 +4,9 @@
 <body>
 Front Page
 <hr>
-Hello!
+<ol>
+<li><a href="aboutus.php">About Us</a></li>
+<li><a href="product.php">Our Product</a></li>
+</ol>
 </body>
 </html>
