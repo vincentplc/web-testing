@@ -9,6 +9,5 @@
 <li>Notebook Computer</li>
 <li>Power Supply</li>
 </ol>
-</ol>
 </body>
 </html>
